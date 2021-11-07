@@ -1,0 +1,18 @@
+.card-menu1 {
+  width: 500px;
+  height: 800px;
+  display: flex;
+  background-image: url(../../images/viande.jpg);
+  background-size: cover;
+  background-position: center;
+  text-align: center;
+}
+
+.card-menu1 .btn-blanc{
+  width: 200px;
+  height: 60px;
+  margin-top: 500px;
+  margin-left: 150px;
+  margin-right: 150px;
+
+}

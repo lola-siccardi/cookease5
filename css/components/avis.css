@@ -1,0 +1,7 @@
+.avis{
+	width: 1452px;
+	height: 459px;
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+}

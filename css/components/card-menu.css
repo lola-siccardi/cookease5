@@ -1,0 +1,30 @@
+.card-menu {
+  width: 500px;
+  height: 800px;
+  display: flex;
+  background-image: url(../../images/apero.jpg);
+  background-position: center;
+}
+
+.card-menu .logo {
+  height: 100px;
+  width: 100px;
+  margin-left: 20%;
+}
+
+.card-menu.logobox {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 100%;
+  margin-top: 2%;
+}
+
+.card-menu .btn-blanc{
+  width: 200px;
+  height: 60px;
+  margin-top: 500px;
+  margin-left: 10px;
+  margin-right: 200px;
+
+}

@@ -1,0 +1,8 @@
+.banner {
+	width: 1452px;
+	height: 559px;
+	background-image: linear-gradient(-225deg, rgba(0,0,0,0.8) 0%, rgba(0,0,0,0.1) 20%), url(../../images/principale.png);
+	background-size: cover;
+	background-position: center;
+
+}

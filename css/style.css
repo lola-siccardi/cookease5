@@ -1,0 +1,181 @@
+@import url("https://fonts.googleapis.com/css2?family=Lora&family=Pacifico") ;
+@import url("components/container.css");
+@import url("components/avatar.css");
+@import url("components/banner.css");
+@import url("components/btn-blanc.css");
+@import url("components/logo.css");
+@import url("components/card-grey.css");
+@import url("components/card-white.css");
+@import url("components/btn-orange.css");
+@import url("components/input.css");
+@import url("components/avis.css");
+@import url("components/homebar.css");
+@import url("components/food-container.css");
+@import url("components/food-image.css");
+@import url("components/connectbox.css");
+@import url("components/banner-2.css");
+@import url("components/card-menu.css");
+@import url("components/card-menu1.css");
+@import url("components/card-menu2.css");
+@import url("components/cards.css");
+
+html {
+  height: 100%;
+}
+
+body {
+  font-family: 'Lora', serif;
+  font-size: 18px;
+  margin: 0px;
+  text-align: center;
+  color: black;
+  min-height: 100%;
+}
+h1, h2, h3 {
+  font-family:'Pacifico', sans-serif;
+  font-weight: bold;
+}
+  
+a {
+  text-decoration: none;  
+  font-family: 'Pacifico' ;
+  font-size: 24px;
+  color: #F9943B;
+}
+
+h1 {
+  color: #F9943B;
+  font-size: 64px;
+  font-family: pacifico, sans-serif;
+  font-weight: bold;
+
+
+}
+
+h2 {
+  font-size: 45px;
+  font-family: pacifico, sans-serif;
+  font-weight: bold;
+  color: black;
+}
+
+h3 {
+  color: #000000;
+  font-size: 30px;
+  font-family: pacifico, sans-serif;
+  font-weight: bold;
+}
+
+h4 {
+  color: #F9943B;
+  font-size: 30px;
+  font-family: pacifico, sans-serif;
+  font-weight: bold;
+  text-align: center;
+  margin: 9px;
+}
+
+h5 {
+  color: #F9943B;
+  font-size: 20px;
+  font-family: pacifico, sans-serif;
+  font-weight: bold;
+}
+
+h6 {
+  color: white;
+  font-size: 36px;
+  font-family: pacifico, sans-serif;
+  font-weight: bold;
+}
+
+Page connection
+.connectbox {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  background-color: rgba(255, 255, 255, 0.85);
+  padding: 23px;
+  margin:4px 0px;
+  box-shadow: 0px 10px 30px rgba(0,0,0,.3);
+  text-align: center;
+  width: 60%;
+  height:80%; 
+}
+
+.connectinput {
+  height: 10%;
+  width: 75%;
+  margin-bottom: 10%;
+  display: 80%;
+}
+
+.background_connect {
+  background-color: #E3E3E3;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-evenly;
+  width: 100vw;
+  height:100vh; 
+}
+
+
+Page starters
+
+.background_starters {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 100vw;
+  height:100vh; 
+}
+
+.filter {
+  font-size: 24px;
+  font-family: Pacifico;
+  text-align: center;
+  border-radius: 5px;
+  padding: 15px 20px;
+  color: black;
+  background-color: white;
+  margin-left:80%;
+}
+.filter:hover {
+  background-color: #F9943B;
+}
+
+Pour les 4 entrées
+.labox {
+flex-direction: row;
+}
+
+.startersbox {
+  display: flex;
+  border-radius: 10%;
+}
+
+
+Page subscription
+
+.background_subscription {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 100vw;
+  height:100vh; 
+}
+
+Pour les 3 abonnements
+.subscriptionbox {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+
+
+
+
+

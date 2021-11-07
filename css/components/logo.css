@@ -1,0 +1,12 @@
+.logo {
+	height: 100px;
+	width: 100px;
+	margin-left: 20%;
+}
+.logobox {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 100%;
+  margin-top: 2%;
+}

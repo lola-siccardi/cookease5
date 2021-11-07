@@ -1,0 +1,11 @@
+.card-grey {
+  background-color: grey;
+  padding: 23px;
+  margin:4px 0px;
+  border-radius: 6px;
+  text-align: center;
+  width: 195px;
+  height: 294px;
+  align-items: center;
+
+}

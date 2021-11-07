@@ -1,0 +1,10 @@
+.homebar{
+	height: 82px;
+	width: 918px;
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+	background-color: #6A6A6A;
+	margin-left: 300px;
+	border-radius: 30px;
+}

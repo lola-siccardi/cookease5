@@ -1,0 +1,15 @@
+.card-menu2 {
+  width: 450px;
+  height: 800px;
+  display: flex;
+  background-image: url(../../images/speculos.jpg);
+  background-position: center;
+}
+.card-menu2 .btn-blanc{
+  width: 200px;
+  height: 60px;
+  margin-top: 500px;
+  margin-left: 190px;
+  margin-right: 200px;
+
+}
